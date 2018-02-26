@@ -3,7 +3,26 @@
 
 // document.getElementById('app').innerHTML = `Welcome ${name} , you have ${age} years`
 
-console.log(2 + 2)
-console.log('no problem')
-console.log(true)
-console.log('ID: ' + 40)
+// console.log(2 + 2)
+// console.log('no problem')
+// console.log(true)
+// console.log('ID: ' + 40)
+
+// var name = 'Roy'
+// var name = 'Fokker'
+// console.log (name)
+
+// var dair  = 'book'
+// 		dair1 = 'book 2'
+
+// console.log(dair)
+// console.log(dair1)
+
+var dias99 = 99
+console.log(dias99)
+
+var firstName = 'Roy'
+var first_name = 'Roy'
+var FirstName = 'Roy'
+var firstname = 'Roy'
+var first_name = 'Roy'
