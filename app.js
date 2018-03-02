@@ -38,22 +38,38 @@
 // const pilot = 'Fokker'
 // console.log(pilot)
 
-let name, message
+// let name, message
 
-name = 'Roy'
-name = 'Roy'
-name = 'Roy'
-message = 'Can get your help \'pilot\' '
+// name = 'Roy'
+// name = 'Roy'
+// name = 'Roy'
+// message = 'Can get your help \'pilot\' '
 
-message = 'Java' + 'Script'
+// message = 'Java' + 'Script'
  
-let learning = 'Learning',
-		technology = 'JavaScript'
+// let learning = 'Learning',
+// 		technology = 'JavaScript'
 
-console.log(name)
-console.log(message)
-console.log(learning + ' ' + technology) 
-console.log(`${learning} ${technology}`)
+// console.log(name)
+// console.log(message)
+// console.log(learning + ' ' + technology) 
+// console.log(`${technology.length}`) 
+ 
+// let number = "300"
+message = 'Learning JavaScript, CSS and HTML'
+
+// console.log(technology.concat(' ', 'It´s marvelous'));
+
+// console.log(technology.toUpperCase());
+// console.log(technology.toLowerCase());
+// console.log(number.toLowerCase());
+// console.log(message.indexOf('JavaScript') );
+	 
+console.log(message.split(', '));
+console.log(message.replace('CSS', 'PHP'));
+
+
+
 
 
 
