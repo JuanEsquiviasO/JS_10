@@ -35,8 +35,28 @@
 // aircraft = 'VFX-1'
 // console.log(aircraft)
 
-const pilot = 'Fokker'
-console.log(pilot)
+// const pilot = 'Fokker'
+// console.log(pilot)
+
+let name, message
+
+name = 'Roy'
+name = 'Roy'
+name = 'Roy'
+message = 'Can get your help \'pilot\' '
+
+message = 'Java' + 'Script'
+ 
+let learning = 'Learning',
+		technology = 'JavaScript'
+
+console.log(name)
+console.log(message)
+console.log(learning + ' ' + technology) 
+console.log(`${learning} ${technology}`)
+
+
+
 
 
 
