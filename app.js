@@ -68,26 +68,65 @@
 // console.log(message.split(', '));
 // console.log(message.replace('CSS', 'PHP'));
 
-const number1 = 30
-const number2 = 20
-const number3 = 20.20
-const number4 = .1020
-const number5 = -3
+// const number1 = 30
+// const number2 = 20
+// const number3 = 20.20
+// const number4 = .1020
+// const number5 = -3
 
-let result
-result = number1 + number2
-result = number1 - number2
-result = number1 * 2
-result = number1 / number2
-result = number1 % number2
-result = Math.PI
-result = Math.floor(2.99)
-result = Math.sqrt(144)
+// let result
+// result = number1 + number2
+// result = number1 - number2
+// result = number1 * 2
+// result = number1 / number2
+// result = number1 % number2
+// result = Math.PI
+// result = Math.floor(2.99)
+// result = Math.sqrt(144)
+
+// console.log(result);
+
+const num1 = "50",
+			num2 = 10,
+			num3 = 'tres'
+
+// console.log(num1 + num2)
+// console.log(Number(num1) + (num2))
+// console.log(parseInt(num1) + (num2))
+
+// console.log(num1 - num2)
+console.log(typeof parseInt(num1))
 
 
- 
 
-console.log(result);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
