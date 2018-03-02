@@ -56,7 +56,7 @@
 // console.log(`${technology.length}`) 
  
 // let number = "300"
-message = 'Learning JavaScript, CSS and HTML'
+// message = 'Learning JavaScript, CSS and HTML'
 
 // console.log(technology.concat(' ', 'It´s marvelous'));
 
@@ -65,8 +65,31 @@ message = 'Learning JavaScript, CSS and HTML'
 // console.log(number.toLowerCase());
 // console.log(message.indexOf('JavaScript') );
 	 
-console.log(message.split(', '));
-console.log(message.replace('CSS', 'PHP'));
+// console.log(message.split(', '));
+// console.log(message.replace('CSS', 'PHP'));
+
+const number1 = 30
+const number2 = 20
+const number3 = 20.20
+const number4 = .1020
+const number5 = -3
+
+let result
+result = number1 + number2
+result = number1 - number2
+result = number1 * 2
+result = number1 / number2
+result = number1 % number2
+result = Math.PI
+result = Math.floor(2.99)
+result = Math.sqrt(144)
+
+
+ 
+
+console.log(result);
+
+
 
 
 
